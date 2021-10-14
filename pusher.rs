@@ -1,1 +1,1 @@
-//control the motion of the particles
+//control the motion of the particles based on Yee's grid
